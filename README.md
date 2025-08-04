@@ -1,4 +1,4 @@
-# travel-planner-agent# Travel Planner Agent 🧳✈️
+# Travel Planner Agent 🧳✈️
 
 This project is an **AI-powered Travel Planner Agent** built using **IBM Watsonx Granite 3-8B Instruct** model. It generates personalized travel itineraries based on user preferences such as location, budget, trip type, and duration.
 
